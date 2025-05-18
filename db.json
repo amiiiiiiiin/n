@@ -1,14 +1,14 @@
 {
   "address": [
     {
-      "post": "http://app.nolimitroot.top//post.php",
-      "get": "http://app.nolimitroot.top/get.php",
-      "server": "http://app.nolimitroot.top/server_none.png",
-      "user": "http://app.nolimitroot.top/user_ban.png",
-      "2post": "http://app.nolimitroot.top//2post.php",
-      "2get": "http://app.nolimitroot.top/2get.php",
-      "postN": "http://app.nolimitroot.top//postN.php",
-      "getN": "http://app.nolimitroot.top/getN.php"
+      "post": "https://app.nolimitroot.top//post.php",
+      "get": "https://app.nolimitroot.top/get.php",
+      "server": "https://app.nolimitroot.top/server_none.png",
+      "user": "https://app.nolimitroot.top/user_ban.png",
+      "2post": "https://app.nolimitroot.top//2post.php",
+      "2get": "https://app.nolimitroot.top/2get.php",
+      "postN": "https://app.nolimitroot.top//postN.php",
+      "getN": "https://app.nolimitroot.top/getN.php"
     }
   ]
 }
